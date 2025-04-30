@@ -1,51 +1,40 @@
 # 👋 Hi, I’m Ashwin Shantilal Satra
 
-🎓 Business Analytics Graduate Student @ UC Riverside (June 2025)  
-🔍 Specializing in Supply Chain Analytics, Forecasting, and Operations Strategy  
-📦 Former Entrepreneur | Data-Driven Problem Solver | Creative Strategist
+🎓 MS in Business Analytics @ UC Riverside (Jun 2025)  
+🔍 Focus: Supply Chain, Forecasting, Operations Strategy  
+📦 Former Entrepreneur | Data-Driven Problem Solver
 
 ---
 
 ## 💼 About Me
 
-I'm a business analytics professional with 3+ years of entrepreneurial experience in retail operations, procurement, and inventory management. My academic focus is on using data, forecasting models, and AI tools (LLMs) to solve real-world supply chain challenges.
-
-Currently working on a **capstone project** that leverages **large language models (LLMs)** to improve public procurement efficiency and decision-making.
-
----
-
-## 🚀 Key Skills
-
-- **Analytics & Tools:** Python, R, SQL, Excel (Advanced), Power BI  
-- **Domains:** Supply Chain, Inventory Planning, Procurement, Forecasting, S&OP  
-- **Projects:**  
-  - Supply Chain Simulation Game (Live inventory & production decisions)  
-  - Flight Delay Prediction using R  
-  - Forecasting models for pharma, retail, and public sector  
-  - Business Operations Automation using Excel and AI tools
+3+ years managing retail operations, procurement, and inventory.  
+Now applying analytics and AI tools to streamline supply chains.  
+Capstone: Using LLMs to improve public procurement efficiency.
 
 ---
 
-## 🎯 Goals
+## 🧠 Skills & Tools
 
-- Land a **data-driven role** in supply chain, procurement, or operations analytics  
-- Combine my **creative background** and **data skills** to optimize real-world business systems  
-- Open to **relocation** across the U.S. | Actively exploring **OPT/CPT opportunities**
-
----
-
-## 💡 Personal Brand: *Logic Meets Logistics*
-
-Where operational thinking and analytical precision come together to drive smarter decisions.  
-I turn process chaos into performance clarity.
+- Python, R, SQL, Power BI, Excel (Advanced)  
+- Demand Forecasting, Inventory Planning, S&OP  
+- EDA, Time Series, Predictive Modeling  
 
 ---
 
-## 📫 Let’s Connect
+## 🔧 Projects
 
-- 💼 [LinkedIn](https://www.linkedin.com/in/ashwinshantilalsatra)  
-- 📬 Email: ashwinsatra1@gmail.com
+- Supply Chain Simulation Game  
+- Flight Delay Prediction in R  
+- Retail & Pharma Sales Forecasting  
+- Business Ops Automation with Excel + AI  
 
 ---
 
-> “Where structure meets strategy — I streamline operations with data, insight, and intent.”
+## 💡 Brand: *Logic Meets Logistics*
+
+Turning messy processes into data-powered decisions.
+
+---
+
+📬 [LinkedIn](https://www.linkedin.com/in/ashwinshantilalsatra) | ashwinsatra1@gmail.com
