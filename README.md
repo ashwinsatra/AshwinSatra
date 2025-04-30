@@ -1,35 +1,51 @@
 # 👋 Hi, I’m Ashwin Shantilal Satra
 
-🎓 **Graduate Student | Business Analytics | UC Riverside**  
-🔍 **Focused on Supply Chain & Operations | Data-Driven Decision-Making | AI-Powered Optimization**
+🎓 Business Analytics Graduate Student @ UC Riverside (June 2025)  
+🔍 Specializing in Supply Chain Analytics, Forecasting, and Operations Strategy  
+📦 Former Entrepreneur | Data-Driven Problem Solver | Creative Strategist
 
 ---
 
-### 👨‍💻 About Me
+## 💼 About Me
 
-```python
-class AshwinSatra:
-    def __init__(self):
-        self.name = "Ashwin Shantilal Satra"
-        self.education = "MS in Business Analytics, UC Riverside (Jun 2025)"
-        self.background = ["Entrepreneur", "Business Manager", "Creative Storyteller"]
-        self.specializations = ["Supply Chain Analytics", "Forecasting", "LLM Integration", "Process Optimization"]
-        self.skills = {
-            "Programming": ["Python", "R", "SQL"],
-            "Data Tools": ["Excel (Advanced)", "Power BI"],
-            "Domains": ["Inventory Management", "Procurement", "S&OP", "Data Visualization"]
-        }
-        self.projects = {
-            "Capstone": "Using LLMs (ChatGPT, Gemini) to enhance public procurement efficiency",
-            "Simulation": "Dynamic supply chain game with live inventory, cost, and production strategy",
-            "Forecasting": ["Chinese Pharma", "Retail Sales", "Flight Delays"]
-        }
-        self.brand = "Art Meets Analytics"
-        self.interests = ["Creative Automation", "Vehicle Troubleshooting", "Digital Media", "Startup Strategy"]
-        self.current_goal = "Landing a data-centric role in Supply Chain/Operations | Open to U.S. relocation"
+I'm a business analytics professional with 3+ years of entrepreneurial experience in retail operations, procurement, and inventory management. My academic focus is on using data, forecasting models, and AI tools (LLMs) to solve real-world supply chain challenges.
 
-    def mission(self):
-        return "Combine creativity and analytics to drive smarter operational decisions in global supply chains."
+Currently working on a **capstone project** that leverages **large language models (LLMs)** to improve public procurement efficiency and decision-making.
 
-ashwin = AshwinSatra()
-print(ashwin.mission())
+---
+
+## 🚀 Key Skills
+
+- **Analytics & Tools:** Python, R, SQL, Excel (Advanced), Power BI  
+- **Domains:** Supply Chain, Inventory Planning, Procurement, Forecasting, S&OP  
+- **Projects:**  
+  - Supply Chain Simulation Game (Live inventory & production decisions)  
+  - Flight Delay Prediction using R  
+  - Forecasting models for pharma, retail, and public sector  
+  - Business Operations Automation using Excel and AI tools
+
+---
+
+## 🎯 Goals
+
+- Land a **data-driven role** in supply chain, procurement, or operations analytics  
+- Combine my **creative background** and **data skills** to optimize real-world business systems  
+- Open to **relocation** across the U.S. | Actively exploring **OPT/CPT opportunities**
+
+---
+
+## 💡 Personal Brand: *Logic Meets Logistics*
+
+Where operational thinking and analytical precision come together to drive smarter decisions.  
+I turn process chaos into performance clarity.
+
+---
+
+## 📫 Let’s Connect
+
+- 💼 [LinkedIn](https://www.linkedin.com/in/ashwinshantilalsatra)  
+- 📬 Email: ashwinsatra1@gmail.com
+
+---
+
+> “Where structure meets strategy — I streamline operations with data, insight, and intent.”
