@@ -27,4 +27,4 @@ Turning messy processes into data-powered decisions.
 
 ---
 
-📬 [LinkedIn](https://www.linkedin.com/in/ashwinshantilalsatra) | ashwinsatra1@gmail.com
+📬 [LinkedIn](https://www.linkedin.com/in/ashwin-satra) | [Email](ashwinsatra3d@gmail.com) | [Email-2](contact@ashwinsatra.com)
