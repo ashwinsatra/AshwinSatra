@@ -1,7 +1,7 @@
 # 👋 Hi, I’m Ashwin Shantilal Satra
 
-🎓 MS in Business Analytics @ UC Riverside (Jun 2025)  
-🔍 Focus: Supply Chain, Forecasting, Operations Strategy  
+🎓 MS in Business Analytics from UC Riverside.
+🔍 Focus: Supply Chain, Forecasting, Inventory Management, Operations Strategy  
 📦 Data-Driven Problem Solver
 
 ---
@@ -9,21 +9,14 @@
 ## 💼 About Me
 
 5+ years managing retail operations, procurement, and inventory.  
-Now applying analytics and AI tools to streamline supply chains.
 
 ---
 
 ## 🧠 Skills & Tools
 
-- Python, R, SQL, Power BI, Excel (Advanced)  
+- R, SQL, Power BI, Excel (Advanced)  
 - Demand Forecasting, Inventory Planning, S&OP  
-- EDA, Time Series, Predictive Modeling  
-
----
-
-## 💡 Brand: *Logic Meets Logistics*
-
-Turning messy processes into data-powered decisions.
+- EDA, Time Series
 
 ---
 
