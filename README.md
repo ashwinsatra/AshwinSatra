@@ -8,7 +8,7 @@
 
 ## 💼 About Me
 
-3+ years managing retail operations, procurement, and inventory.  
+5+ years managing retail operations, procurement, and inventory.  
 Now applying analytics and AI tools to streamline supply chains.
 
 ---
